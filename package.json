@@ -1,0 +1,7 @@
+{
+  "name": "edge-data-fetcher",
+  "version": "1.0.0",
+  "description": "A simple serverless function to fetch remote API data on Edge Runtime",
+  "private": true,
+  "license": "MIT"
+}
